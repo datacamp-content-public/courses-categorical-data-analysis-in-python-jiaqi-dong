@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Pie Charts
+
+```yaml
+type: VideoExercise
+key: 937faa3fc8
+xp: 50
+```
+
+`@projector_key`
+4f8a9bb1fa749361997b33acb6cc6613
